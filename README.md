@@ -8,7 +8,6 @@ Hello, I am Darren Kelly and I am on a mission to become a Full Stack Developer.
 
 * 🌍  I'm based in Carlow, Ireland
 * ✉️  You can contact me at [darrenkelly196@gmail.com](mailto:darrenkelly196@gmail.com)
-* 🧠  I'm learning How to be a Senior Developer on ZTM Academy
 
 ### Skills
 
