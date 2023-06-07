@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-Hello, I am Darren Kelly and I am on a mission to become a Full Stack Developer. I am currently a student at ZTM Academy, taking the necessary steps to become a qualified professional. I have been passionate about technology for as long as I can remember. I have a natural aptitude for problem-solving and I can easily break down complex concepts and make them easily understandable. I am constantly striving to stay ahead of the curve in the ever-changing world of technology and development.
+Hello, I am Darren Kelly and I am  a Full Stack Developer.I have been passionate about technology for as long as I can remember. I have a natural aptitude for problem-solving and I can easily break down complex concepts and make them easily understandable. I am constantly striving to stay ahead of the curve in the ever-changing world of technology and development.
 
 * 🌍  I'm based in Carlow, Ireland
 * ✉️  You can contact me at [darrenkelly196@gmail.com](mailto:darrenkelly196@gmail.com)
